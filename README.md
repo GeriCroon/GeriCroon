@@ -5,11 +5,11 @@
 Here are some ideas to get you started:
 -->
 ## My name is Géraldine 😄
+- 🌱 Currently learning: The basics of programming, especially HTML. I'm working on designing and structuring web pages. I'm also learning how to use GitHub effectively to manage and share my projects. #HTML #WebDesign #GitHub #Coding
 
-- 🔭 I’m currently working on understanding coding 
-- 🌱 I’m currently learning how to use HTML and how to navigate throught github successfully
-- 💬 Ask me about food 
-- 📫 How to reach me: with patience
+- 💬 Ask me about: Food! I love discussing culinary delights, recipes, cooking styles, and everything related to food. #FoodLover #Recipes #Cuisine #Cooking
+
+- 📫 Reach me: With patience. I appreciate thoughtful and calm communication. #Patience #Communication #ReachOut
 
 
 <!--
