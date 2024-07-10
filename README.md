@@ -2,11 +2,13 @@
 
 
 ## My name is Géraldine 😄
-- 🌱 Currently learning: The basics of programming, especially HTML. I'm working on designing and structuring web pages. I'm also learning how to use GitHub effectively to manage and share my projects. #HTML #WebDesign #GitHub #Coding
+- 🌱 Currently learning: The basics of programming, especially HTML, CSS and JavaScript. I'm working on designing and structuring web pages. I'm also learning how to use GitHub effectively to manage and share my projects. #HTML #WebDesign #GitHub #Coding
 
 - 💬 Ask me about: Food! I love discussing culinary delights, recipes, cooking styles, and everything related to food. #FoodLover #Recipes #Cuisine #Cooking
 
 - 📫 Reach me: With patience. I appreciate thoughtful and calm communication. #Patience #Communication #ReachOut
+
+- 👯 I’m looking forward to collaborate on projects and learn more about how the tech world works
 
 
 <!--
